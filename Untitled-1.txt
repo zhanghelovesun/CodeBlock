@@ -8,3 +8,5 @@ void ListInitiate(Linklist **head)
 {
     *head=(Linklist *)malloc(sizeof(Linklist));
 } 
+
+zarf  改了这一行
