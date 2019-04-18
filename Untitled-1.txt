@@ -4,3 +4,7 @@ typedef struct node
     DataType data;
     struct node *next;
 }Linklist;
+void ListInitiate(Linklist **head)
+{
+    *head=(Linklist *)malloc(sizeof(Linklist));
+} 
