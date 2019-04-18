@@ -7,6 +7,6 @@ typedef struct node
 void ListInitiate(Linklist **head)
 {
     *head=(Linklist *)malloc(sizeof(Linklist));
-} 
-
+}
+I love my girlfriend
 zarf  改了这一行
